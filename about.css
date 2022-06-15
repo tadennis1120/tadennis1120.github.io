@@ -1,10 +1,10 @@
 body {
   background-image: url("about_background.png");
-  background-repeat: repeat;
+  background-repeat: repeat repeat;
   background-position: right top;
   background-attachment: scroll;
 }
 img {
-  width: 40%;
+  width: 39%;
   height: auto;
 }
